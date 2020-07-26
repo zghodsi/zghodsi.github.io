@@ -1,0 +1,21 @@
+title: Zahra Ghodsi
+#url: "https://ghodsi.me"
+#baseurl: ""
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: mailto:ghodsi@nyu.edu
+footer_text: "send me a message: ghodsi [at] nyu.edu"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Publications"
+   link: "publications"
