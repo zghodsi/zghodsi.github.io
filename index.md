@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="zahra.png">
 ## Zahra Ghodsi
 
-I am a PhD candidate at New York University, advised by [Siddharth Garg](http://engineering.nyu.edu/garg/). My research interests include Security, Privacy, Machine Learning, and everything in between. My research is partially supported by a J.P. Morgan AI Research Fellowship. 
+I am a PhD candidate at New York University, advised by [Siddharth Garg](http://wp.nyu.edu/ensure_group/). My research interests include Security, Privacy, Machine Learning, and everything in between. My research is partially supported by a J.P. Morgan AI Research Fellowship. 
 
 Previously, I received a M.Sc. in Computer Engineering from NYU, and a B.Sc. in Electrical Engineering from Sharif University of Technology.
 
