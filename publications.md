@@ -23,7 +23,7 @@ Jeff Zhang, Kartheek Rangineni, Zahra Ghodsi, Siddharth Garg\\
 Proceedings of the 55th Annual Design Automation Conference (DAC), June 2018
 
 [Safetynets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud](http://papers.nips.cc/paper/7053-safetynets-verifiable-execution-of-deep-neural-networks-on-an-untrusted-cloud.pdf) 
-[<a style='color:#000' href='https://www.youtube.com/watch?v=n8y7SD_t9ms'>video</a>]\\
+[<a style='color:#000' href='https://www.youtube.com/watch?v=n8y7SD_t9ms'>video</a>]
 [<a style='color:#000' href='https://github.com/zghodsi/safetynets'>code</a>]\\
 Zahra Ghodsi, Tianyu Gu, Siddharth Garg\\
 Advances in Neural Information Processing Systems (NeurIPS), Dec 2017
