@@ -12,6 +12,8 @@ Previously, I received a M.Sc. in Computer Engineering from NYU, and a B.Sc. in 
 ---
 
 ### News
+**Sep 2020** Our paper, "CryptoNAS: Private Inference on a ReLU Budget", has been accepted to NeurIPS 2020!
+
 **Sep 2019** I will be joining NVIDIA Research for an internship, thrilled to be working with [Anima Anandkumar](https://research.nvidia.com/person/anima-anandkumar).
 
 **Jan 2019** I have been selected as a [J.P. Morgan AI Research PhD Fellow](https://www.jpmorgan.com/country/US/en/technology/ai/awards/phd-fellowship-award-recipients).
