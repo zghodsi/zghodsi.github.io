@@ -20,7 +20,7 @@ Siddharth Garg, Zahra Ghodsi, Carmit Hazay, Yuval Ishai, Antonio Marcedone, Muth
 
 [Thundervolt: Enabling Aggressive Voltage Underscaling and Timing Error Resilience for Energy Efficient Deep Learning Accelerators](https://dl.acm.org/doi/pdf/10.1145/3195970.3196129) \\
 Jeff Zhang, Kartheek Rangineni, Zahra Ghodsi, Siddharth Garg\\
-Proceedings of the 55th Annual Design Automation Conference (DAC), June 2018
+Design Automation Conference (DAC), June 2018
 
 [Safetynets: Verifiable Execution of Deep Neural Networks on an Untrusted Cloud](http://papers.nips.cc/paper/7053-safetynets-verifiable-execution-of-deep-neural-networks-on-an-untrusted-cloud.pdf) 
 Zahra Ghodsi, Tianyu Gu, Siddharth Garg\\
