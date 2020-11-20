@@ -1,9 +1,10 @@
 ---
 layout: publications
 ---
-[CryptoNAS: Private Inference on a ReLU Budget](https://arxiv.org/pdf/2006.08733.pdf)\\
+[CryptoNAS: Private Inference on a ReLU Budget](https://proceedings.neurips.cc/paper/2020/file/c519d47c329c79537fbb2b6f1c551ff0-Paper.pdf)\\
 Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg \\
-arXiv preprint
+Advances in Neural Information Processing Systems (NeurIPS), Dec 2020\\
+[<a style='color:#000' href='https://github.com/zghodsi/cryptonas'>code</a>]
 
 [SafeTPU: A Verifiably Secure Hardware Accelerator for Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9107564)\\
 Maria I. Mera Collantes, Zahra Ghodsi, Siddharth Garg \\
