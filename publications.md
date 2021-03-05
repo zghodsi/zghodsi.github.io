@@ -1,6 +1,10 @@
 ---
 layout: publications
 ---
+[DeepReDuce: ReLU Reduction for Fast Private Inference](https://arxiv.org/pdf/2103.01396.pdf)\\
+Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, Brandon Reagen  \\
+Arxiv preprint
+
 [CryptoNAS: Private Inference on a ReLU Budget](https://proceedings.neurips.cc/paper/2020/file/c519d47c329c79537fbb2b6f1c551ff0-Paper.pdf)\\
 Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg \\
 Advances in Neural Information Processing Systems (NeurIPS), Dec 2020\\
@@ -29,7 +33,7 @@ Advances in Neural Information Processing Systems (NeurIPS), Dec 2017\\
 [<a style='color:#000' href='https://www.youtube.com/watch?v=n8y7SD_t9ms'>video</a>]
 [<a style='color:#000' href='https://github.com/zghodsi/safetynets'>code</a>]
 
-[Optimal Checkpointing for Secure Intermittently-powered IoT Devices](https://dl.acm.org/doi/pdf/10.5555/3199700.3199750?download=true)\\
+[Optimal Checkpointing for Secure Intermittently-powered IoT Devices](https://dl.acm.org/doi/pdf/10.5555/3199700.3199750)\\
 Zahra Ghodsi, Siddharth Garg, Ramesh Karri\\
 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), Nov 2017 
 

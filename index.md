@@ -5,9 +5,9 @@ layout: default
 <img class="profile-picture" src="zahra.png">
 ## Zahra Ghodsi
 
-I am a PhD candidate at New York University, advised by [Siddharth Garg](http://wp.nyu.edu/ensure_group/). My research interests include Security, Privacy, Machine Learning, and everything in between. My research is partially supported by a J.P. Morgan AI Research Fellowship. 
+I am a Postdoctoral Scholar at University of California San Diego, working with [Farinaz Koushanfar](https://farinaz.eng.ucsd.edu/). My research interests include Security, Privacy, Machine Learning, and everything in between.
 
-Previously, I received a M.Sc. in Computer Engineering from NYU, and a B.Sc. in Electrical Engineering from Sharif University of Technology.
+Previously, I received a Ph.D. in Electrical and Computer Engineering from New York University advised by [Siddharth Garg](http://wp.nyu.edu/ensure_group/), and a B.Sc. in Electrical Engineering from Sharif University of Technology.
 
 ---
 
