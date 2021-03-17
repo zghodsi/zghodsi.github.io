@@ -9,6 +9,8 @@ I am a Postdoctoral Scholar at University of California San Diego, working with 
 
 Previously, I received a Ph.D. in Electrical and Computer Engineering from New York University advised by [Siddharth Garg](http://wp.nyu.edu/ensure_group/), and a B.Sc. in Electrical Engineering from Sharif University of Technology.
 
+I was supported by an Ernest Weber Fellowship (2015-2017), and a J.P. Morgan AI Fellowship (2019).
+
 ---
 
 ### News
