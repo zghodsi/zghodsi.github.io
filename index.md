@@ -14,6 +14,10 @@ I was supported by an Ernest Weber Fellowship (2015-2017), and a J.P. Morgan AI 
 ---
 
 ### News
+**May 2021** Our paper, "DeepReDuce: ReLU Reduction for Fast Private Inference", will appear at ICML 2021.
+
+**Apr 2021** Our paper, "Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles", has been accepted to IEEE IV 2021.
+
 **Sep 2020** Our paper, "CryptoNAS: Private Inference on a ReLU Budget", has been accepted to NeurIPS 2020.
 
 **Sep 2019** I will be joining NVIDIA Research for an internship, thrilled to be working with [Anima Anandkumar](https://research.nvidia.com/person/anima-anandkumar).
