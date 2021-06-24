@@ -1,6 +1,10 @@
 ---
 layout: publications
 ---
+[Circa: Stochastic ReLUs for Private Deep Learning](https://arxiv.org/pdf/2106.08475.pdf)\\
+Zahra Ghodsi, Nandan Kumar Jha, Brandon Reagen, Siddharth Garg \\
+Arxiv preprint
+
 [Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles](https://arxiv.org/pdf/2103.07403.pdf)\\
 Zahra Ghodsi, Siva Kumar Sastry Hari, Iuri Frosio, Timothy Tsai, Alejandro Troccoli, Stephen Keckler, Siddharth Garg, Anima Anandkumar \\
 Arxiv preprint
