@@ -11,7 +11,7 @@ Arxiv preprint
 
 [Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles](https://arxiv.org/pdf/2103.07403.pdf)\\
 Zahra Ghodsi, Siva Kumar Sastry Hari, Iuri Frosio, Timothy Tsai, Alejandro Troccoli, Stephen Keckler, Siddharth Garg, Anima Anandkumar \\
-Arxiv preprint
+IEEE Intelligent Vehicles Symposium (IV), Jul 2021
 
 [DeepReDuce: ReLU Reduction for Fast Private Inference](https://arxiv.org/pdf/2103.01396.pdf)\\
 Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, Brandon Reagen  \\
