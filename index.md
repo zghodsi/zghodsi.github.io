@@ -14,6 +14,10 @@ I was supported by an Ernst Weber Fellowship (2015-2017), and a J.P. Morgan AI F
 ---
 
 ### News
+**Oct 2021** Our paper, "Circa: Stochastic ReLUs for Private Deep Learning", has been accepted to NeurIPS 2021.
+
+**Aug 2021** I have been selected as an [EECS Rising Star](https://risingstars21-eecs.mit.edu/).
+
 **May 2021** Our paper, "DeepReDuce: ReLU Reduction for Fast Private Inference", will appear at ICML 2021.
 
 **Apr 2021** Our paper, "Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles", has been accepted to IEEE IV 2021.
