@@ -1,21 +1,25 @@
 ---
 layout: publications
 ---
+[CryptoNite: Revealing the Pitfalls of End-to-End Private Inference at Scale](https://arxiv.org/pdf/2111.02583.pdf)\\
+Karthik Garimella, Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, Brandon Reagen \\
+Arxiv preprint
+
 [Sphynx: ReLU-Efficient Network Design for Private Inference](https://arxiv.org/pdf/2106.11755.pdf)\\
 Minsu Cho, Zahra Ghodsi, Brandon Reagen, Siddharth Garg, Chinmay Hegde \\
 Arxiv preprint
 
 [Circa: Stochastic ReLUs for Private Deep Learning](https://arxiv.org/pdf/2106.08475.pdf)\\
 Zahra Ghodsi, Nandan Kumar Jha, Brandon Reagen, Siddharth Garg \\
-Arxiv preprint
+Advances in Neural Information Processing Systems (NeurIPS), Dec 2021
 
 [Generating and Characterizing Scenarios for Safety Testing of Autonomous Vehicles](https://arxiv.org/pdf/2103.07403.pdf)\\
 Zahra Ghodsi, Siva Kumar Sastry Hari, Iuri Frosio, Timothy Tsai, Alejandro Troccoli, Stephen Keckler, Siddharth Garg, Anima Anandkumar \\
 IEEE Intelligent Vehicles Symposium (IV), Jul 2021
 
-[DeepReDuce: ReLU Reduction for Fast Private Inference](https://arxiv.org/pdf/2103.01396.pdf)\\
+[DeepReDuce: ReLU Reduction for Fast Private Inference](https://proceedings.mlr.press/v139/jha21a/jha21a.pdf)\\
 Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, Brandon Reagen  \\
-Arxiv preprint
+International Conference on Machine Learning (ICML), Jul 2021
 
 [CryptoNAS: Private Inference on a ReLU Budget](https://proceedings.neurips.cc/paper/2020/file/c519d47c329c79537fbb2b6f1c551ff0-Paper.pdf)\\
 Zahra Ghodsi, Akshaj Veldanda, Brandon Reagen, Siddharth Garg \\
