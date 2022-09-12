@@ -1,13 +1,21 @@
 ---
 layout: publications
 ---
+[Characterizing and Optimizing End-to-End Systems for Private Inference](https://arxiv.org/pdf/2207.07177.pdf) \\
+Karthik Garimella, Zahra Ghodsi, Nandan Kumar Jha, Siddharth Garg, Brandon Reagen \\
+Arxiv preprint
+
+[zPROBE: Zero Peek Robustness Checks for Federated Learning](https://arxiv.org/pdf/2206.12100.pdf)\\
+Zahra Ghodsi, Mojan Javaheripi, Nojan Sheybani, Xinqiao Zhang, Ke Huang, Farinaz Koushanfar \\
+Arxiv preprint
+
 [CryptoNite: Revealing the Pitfalls of End-to-End Private Inference at Scale](https://arxiv.org/pdf/2111.02583.pdf)\\
 Karthik Garimella, Nandan Kumar Jha, Zahra Ghodsi, Siddharth Garg, Brandon Reagen \\
 Arxiv preprint
 
 [Sphynx: ReLU-Efficient Network Design for Private Inference](https://arxiv.org/pdf/2106.11755.pdf)\\
 Minsu Cho, Zahra Ghodsi, Brandon Reagen, Siddharth Garg, Chinmay Hegde \\
-Arxiv preprint
+IEEE Security and Privacy, 2022.
 
 [Circa: Stochastic ReLUs for Private Deep Learning](https://arxiv.org/pdf/2106.08475.pdf)\\
 Zahra Ghodsi, Nandan Kumar Jha, Brandon Reagen, Siddharth Garg \\
