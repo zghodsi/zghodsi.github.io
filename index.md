@@ -7,7 +7,7 @@ layout: default
 
 I am a Postdoctoral Scholar at University of California San Diego, working with [Farinaz Koushanfar](https://farinaz.eng.ucsd.edu/). My research interests include Security, Privacy, Machine Learning, and everything in between.
 
-**I will be joining Purdue University Elmore Family School of Electrical and Computer Engineering in Spring 2023 as an Assistant Professor. I am currently looking for students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!**
+**I will be joining [Purdue University Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) in Spring 2023 as an Assistant Professor. I am currently looking for students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!**
 
 Previously, I received a Ph.D. in Electrical and Computer Engineering from New York University advised by [Siddharth Garg](http://wp.nyu.edu/ensure_group/), and a B.Sc. in Electrical Engineering from Sharif University of Technology.
 
