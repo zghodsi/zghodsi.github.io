@@ -13,7 +13,7 @@ I am an assistant professor in the [ECE department](https://engineering.purdue.e
 ---
 
 ### News
-**Dec 2022** Our paper, "zPROBE: Zero Peek Robustness Checks for Federated Learning", received an outstanding paper award at at the [TSRML workshop](https://tsrml2022.github.io/) at NeurIPS 2022.
+**Dec 2022** Our paper, "zPROBE: Zero Peek Robustness Checks for Federated Learning", received an outstanding paper award at the [TSRML workshop](https://tsrml2022.github.io/) at NeurIPS 2022.
 
 **Oct 2021** Our paper, "Circa: Stochastic ReLUs for Private Deep Learning", has been accepted to NeurIPS 2021.
 
