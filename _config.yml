@@ -7,8 +7,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: mailto:zghodsi@purdue.edu
-footer_text: "send me a message: zghodsi [at] purdue.edu"
+footer_url: mailto:zahra@purdue.edu
+footer_text: "send me a message: zahra [at] purdue.edu"
 
 sass:
     style: compressed
