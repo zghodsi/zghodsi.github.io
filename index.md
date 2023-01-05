@@ -5,9 +5,9 @@ layout: default
 <img class="profile-picture" src="zahra.png">
 ## Zahra Ghodsi
 
-I am an assistant professor in the ECE department at Purdue University. My research focuses on building secure frameworks for emerging intelligent devices and applications, and spans applied cryptography, machine learning, and systems.
+I am an assistant professor in the [ECE department](https://engineering.purdue.edu/ECE) at Purdue University. My research focuses on building secure frameworks for emerging intelligent devices and applications, and spans applied cryptography, machine learning, and systems.
 
-* I am currently looking for students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!*
+*I am currently looking for students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!*
 
 
 ---
