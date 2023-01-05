@@ -5,17 +5,16 @@ layout: default
 <img class="profile-picture" src="zahra.png">
 ## Zahra Ghodsi
 
-I am a Postdoctoral Scholar at University of California San Diego, working with [Farinaz Koushanfar](https://farinaz.eng.ucsd.edu/). My research interests include Security, Privacy, Machine Learning, and everything in between.
+I am an assistant professor in the ECE department at Purdue University. My research focuses on building secure frameworks for emerging intelligent devices and applications, and spans applied cryptography, machine learning, and systems.
 
-**I will be joining [Purdue University Elmore Family School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) in Spring 2023 as an Assistant Professor. I am currently looking for students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!**
+* I am currently looking for students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!*
 
-Previously, I received a Ph.D. in Electrical and Computer Engineering from New York University advised by [Siddharth Garg](http://wp.nyu.edu/ensure_group/), and a B.Sc. in Electrical Engineering from Sharif University of Technology.
-
-I was supported by an Ernst Weber Fellowship (2015-2017), and a J.P. Morgan AI Fellowship (2019).
 
 ---
 
 ### News
+**Dec 2022** Our paper, "zPROBE: Zero Peek Robustness Checks for Federated Learning", received an outstanding paper award at at the [TSRML workshop](https://tsrml2022.github.io/) at NeurIPS 2022.
+
 **Oct 2021** Our paper, "Circa: Stochastic ReLUs for Private Deep Learning", has been accepted to NeurIPS 2021.
 
 **Aug 2021** I have been selected as an [EECS Rising Star](https://risingstars21-eecs.mit.edu/).
