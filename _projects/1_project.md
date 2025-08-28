@@ -1,81 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: trustworthy machine learning
+#description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Machine learning (ML) systems are anticipated to become embedded into various aspects of daily life, including health care, financial transactions, and transportation systems. As a result, they will present prime targets for attackers. ML systems are known to be susceptible to a range of attacks, including data and model poisoning, backdoor, privacy leakage, and adversarial inputs among others.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Real-world machine learning systems often require several guarantees to be met at the same time such as privacy and robustness. For example, a federated learning system should protect the privacy of individual client updates which can leak information about their datasets, and also protect against malicious clients who aim to poison the model with malicious updates. In our work zPROBE {% cite ghodsi2023zprobe %}, we propose a private and robust federated learning framework which utilizes zero-knowledge proofs to provide robustness guarantees without compromising client privacy.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Integrity or correctness guarantees for machine learning computations are also important in increasingly common scenarios where operations are outsourced to commercial vendors instead of performed locally due to lack of sufficient computational resources. A vendor has a financial incentive to replace the model with a simpler but less accurate one to reduce its own operational costs, or it may be compromised and return the wrong result to the client. In SafetyNets {% cite ghodsi2017safetynets%}, we proposed a framework for verifiable execution of neural networks on untrusted cloud servers which started a line of research on verifiable machine learning.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: The TCLS lab has broad research interests in security and privacy, machine learning, and applied cryptography. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+#display_categories: [work, other]
 horizontal: false
 ---
 
