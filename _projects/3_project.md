@@ -1,7 +1,7 @@
 ---
 layout: page
 title: hardware acceleration
-img: assets/img/7.jpg
+img: assets/img/3.jpg
 importance: 3
 category: work
 related_publications: true

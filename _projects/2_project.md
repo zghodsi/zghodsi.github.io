@@ -1,7 +1,7 @@
 ---
 layout: page
 title: privacy-preserving computation 
-img: assets/img/3.jpg
+img: assets/img/2.jpg
 importance: 2
 category: work
 related_publications: true

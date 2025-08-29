@@ -2,7 +2,7 @@
 layout: page
 title: trustworthy machine learning
 #description: with background image
-img: assets/img/12.jpg
+img: assets/img/1.jpg
 importance: 1
 category: work
 related_publications: true

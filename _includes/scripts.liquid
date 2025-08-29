@@ -188,12 +188,6 @@
 <script defer src="{{ '/assets/js/jupyter_new_tab.js' | relative_url | bust_file_cache }}"></script>
 
 <!-- Badges -->
-{% if site.enable_publication_badges.altmetric %}
-  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-{% endif %}
-{% if site.enable_publication_badges.dimensions %}
-  <script async src="https://badge.dimensions.ai/badge.js"></script>
-{% endif %}
 
 {% if site.enable_math %}
   <!-- MathJax -->
@@ -221,40 +215,6 @@
       crossorigin="anonymous"
     ></script>
   {% endunless %}
-{% endif %}
-
-{% if site.enable_google_analytics %}
-  <!-- Analytics -->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', '{{ site.google_analytics }}');
-  </script>
-  <script defer src="{{ '/assets/js/google-analytics-setup.js' | relative_url }}"></script>
-{% endif %}
-
-{% if site.enable_cronitor_analytics %}
-  <!-- Cronitor RUM -->
-  <script async src="https://rum.cronitor.io/script.js"></script>
-  <script defer src="{{ '/assets/js/cronitor-analytics-setup.js' | relative_url }}"></script>
-{% endif %}
-{% if site.enable_pirsch_analytics %}
-  <script
-    defer
-    src="https://api.pirsch.io/pa.js"
-    id="pianjs"
-    data-code="{{ site.pirsch_analytics }}"
-  ></script>
-{% endif %}
-{% if site.enable_openpanel_analytics %}
-  <script defer src="{{ '/assets/js/open-panel-analytics-setup.js' | relative_url }}"></script>
-  <script async defer src="https://openpanel.dev/op1.js"></script>
 {% endif %}
 
 {% if site.enable_progressbar %}
