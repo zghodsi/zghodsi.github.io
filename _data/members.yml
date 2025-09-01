@@ -1,0 +1,43 @@
+faculty:
+  - firstname: "Zahra"
+    lastname: "Ghodsi"
+    inline: true
+    profile:
+      name: "Zahra Ghodsi"
+      image: "zahra.jpg"
+      position: "Lab lead"
+      email: "zahra@purdue.edu"
+      phone: "(765) 494-3507"
+      scholar: "BeFHHxkAAAAJ"
+      github: "zghodsi"
+      address: "BHEE 331A, West Lafayette"
+    teaser: "Zahra Ghodsi is an Assistant Professor in the Electrical and Computer Engineering Department at Purdue University. Her research broadly focuses on addressing security and privacy issues in emerging computing systems. Most recently, she has been working on trustworthy machine learning, cryptographically secure privacy-preserving computation, and hardware acceleration of cryptographic protocols."
+
+students:
+  - firstname: "Andrew"
+    lastname: "Gan"
+    inline: true
+    profile:
+      name: "Andrew Gan"
+      image: "user_pic.jpg"
+      position: "Graduate student"
+    teaser: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+
+  - firstname: "Rosemary"
+    lastname: "Agbozo"
+    inline: false
+    profile:
+      name: "Rosemary Agbozo"
+      image: "user_pic.jpg"
+      position: "Graduate student"
+    teaser: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+
+  - firstname: "Annapoorna"
+    lastname: "Prabhu"
+    inline: false
+    profile:
+      name: "Annapoorna Prabhu"
+      image: "user_pic.jpg"
+      position: "Graduate student"
+    teaser: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+
