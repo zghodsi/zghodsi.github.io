@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zghodsi.github.io/al-folio/sitemap.xml
+Sitemap: https://zghodsi.github.io/sitemap.xml
