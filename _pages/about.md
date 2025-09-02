@@ -25,6 +25,6 @@ announcements:
 
 I am an Assistant Professor at Purdue University in the Electrical and Computer Engineering Department where I lead the Trustworthy Computing and Learning Systems (TCLS) lab.
 
-My research broadly focuses on addressing security and privacy issues in emerging computing systems. Most recently, I have been working on trustworthy machine learning, cryptographically secure privacy-preserving computation, and hardware acceleration of cryptographic protocols. I am particularly interested in solutions that span algorithm and protocol design and system optimizations to create end-to-end frameworks with real-world impact. Read more on our recent research directions in [projects](/al-folio/projects/) and [publications](/al-folio/publications/) pages.
+My research broadly focuses on addressing security and privacy issues in emerging computing systems. Most recently, I have been working on trustworthy machine learning, cryptographically secure privacy-preserving computation, and hardware acceleration of cryptographic protocols. I am particularly interested in solutions that span algorithm and protocol design and system optimizations to create end-to-end frameworks with real-world impact. Read more on our recent research directions in [projects](/projects/) and [publications](/publications/) pages.
 
 *I am currently recruiting students to join my group. If you are interested in building secure and intelligent systems, feel free to reach out!*
